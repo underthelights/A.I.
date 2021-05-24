@@ -12,3 +12,16 @@
   - 7. K-means Clustering and Principal Component Analysis
   - 8. Anomaly Detection and Recommender Systems
 
+- following pkgs
+* [Numpy](https://www.numpy.org)
+* [Scipy](https://www.scipy.org)
+* [Matplotlib](https://matplotlib.org)
+* [Pandas](https://pandas.pydata.org)
+* [Pillow](https://python-pillow.org)
+* [Natural Language Toolkit](http://www.nltk.org)
+
+
+- strategy
+1. Please download the exercises (pdf) from the Coursera course. Some instructions are included in the Notebooks. 
+2. Complete the exercises in the exercises Notebook.
+3. Compare your answers to the code in solutions Notebook.
